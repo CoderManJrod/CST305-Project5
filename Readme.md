@@ -1,8 +1,8 @@
 # Project 5 — Self-Organized Criticality: Lorenz File System Model
 
 **Course:** CST-305: Principles of Modeling and Simulation  
-**Author:** Jared [Last Name]  
-**Semester:** Spring 2026  
+**Author:** Jared Walker 
+**Semester/Date:** Spring 2026/March 29, 2026
 **University:** Grand Canyon University
 
 ---
